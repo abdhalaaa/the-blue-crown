@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "147317946652",
+    "project_id": "the-blue-crown-caba8",
+    "storage_bucket": "the-blue-crown-caba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147317946652:android:9ac65644f74a851cb862d9",
+        "android_client_info": {
+          "package_name": "com.example.theblue_crown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147317946652-10nbunuu5dpmek0fgvpp8i8kag6ft368.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theblue_crown",
+            "certificate_hash": "baca057530599951e14db228c145954bd6489665"
+          }
+        },
+        {
+          "client_id": "147317946652-o4e577lbkb1g8fr9lgmkbknsv8o8kg54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbg75ExiY5sP5b2eIlDMjVA0URXS1N3Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147317946652-o4e577lbkb1g8fr9lgmkbknsv8o8kg54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
